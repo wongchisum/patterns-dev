@@ -1,0 +1,14 @@
+{
+  "name": "design-patterns",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "typedoc": {
+    "entryPoint": "./src/index.ts",
+    "readmeFile": "./README.md",
+    "displayName": "design-patterns",
+    "tsconfig": "./tsconfig.json"
+  }
+}
